@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "JA3qz8JsTXQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giogu\\source\\repos\\FileDrop\\FileDrop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giogu\\.nuget\\packages\\docx\\4.0.25105.5786\\docx.4.0.25105.5786.nupkg.sha512",
+    "C:\\Users\\giogu\\.nuget\\packages\\pdfpig\\0.1.11\\pdfpig.0.1.11.nupkg.sha512",
+    "C:\\Users\\giogu\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\giogu\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\giogu\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
+    "C:\\Users\\giogu\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
